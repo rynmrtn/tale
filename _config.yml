@@ -2,10 +2,10 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          ZeroFOX Engineering
 paginate:       5
 baseurl:        ""
-url:            "https://chesterhow.github.io/tale"
+url:            "https://github.com/zerofox-oss"
 
 # Assets
 sass:
@@ -14,12 +14,6 @@ sass:
 
 # Build settings
 markdown:       kramdown
-
-# About
-author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
 
 # Custom vars
 version:        3.4.1
